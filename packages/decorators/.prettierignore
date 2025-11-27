@@ -1,2 +1,11 @@
-# Ignore generated build artifacts
-dist/
+**/.next
+**/.react-router
+**/.turbo
+**/.vercel
+**/.vite
+**/build
+**/dist
+**/node_modules
+**/out
+**/public
+pnpm-lock.yaml
